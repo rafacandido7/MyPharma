@@ -1,0 +1,16 @@
+Desenvolver CRUD de produtos com React e banco de dados MongoDB (NoSQL)
+
+Dados dos produtos:
+- Código
+- Nome
+- Preço de venda
+- Estoque
+– Subir API em algum serviço público, Ex: Heroku
+– Colocar o projeto em um repositório (GitHub ou Bitbucket)
+
+enviar email com link do serviço e do github para vinicius.soccol@mypharma.net.br
+
+Playlist recomendada: https://www.youtube.com/watch?v=xFMKYhlOtSE&list=PLf7vZ02bgXGWPYTDBP8Bd8C1rLqj0BRV3
+
+MongoDB no VS Code (Alura) - https://cursos.alura.com.br/extra/alura-mais/mongodb-no-visual-studio-code-c117 
+MongoDB: O banco baseado em documentos (Alura) - https://www.alura.com.br/artigos/mongodb-o-banco-baseado-em-documentos
