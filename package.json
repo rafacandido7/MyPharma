@@ -1,0 +1,26 @@
+{
+  "name": "mypharma",
+  "version": "1.0.0",
+  "description": "Projeto teste da MyPharma",
+  "main": "index.js",
+  "scripts": { 
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafacandido7/MyPharma.git"
+  },
+  "author": "Rafael Cândido",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafacandido7/MyPharma/issues"
+  },
+  "homepage": "https://github.com/rafacandido7/MyPharma#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "path": "^0.12.7"
+  }
+}
