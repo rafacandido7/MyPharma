@@ -11,7 +11,7 @@ routes.get('/', index);
 routes.post('/create_product', create);
 routes.get('/product_details/:_id', details);
 routes.delete('/delete_product/:_id', forget);
-routes.put('/update_product', update);
+routes.patch('/update_product/:_id', update);
 
 
 

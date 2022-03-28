@@ -10,7 +10,7 @@ const DataSchema = new mongoose.Schema ({
         type: String,
         require: true,
     },
-    sell_price: {
+    price: {
         type: Number,
         require: true,
         default: 0,
