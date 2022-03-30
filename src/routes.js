@@ -4,14 +4,14 @@ const routes = express.Router();
 
 
 //Para listar todos os produtos.
-routes.get('/', index);
+routes.get('/api', index);
 
 
 //Rotas dos Produtos.
-routes.post('/create_product', create);
-routes.get('/product_details/:_id', details);
-routes.delete('/delete_product/:_id', forget);
-routes.patch('/update_product/:_id', update);
+routes.post('/api/create_product', create);
+routes.get('/api/product_details/:_id', details);
+routes.delete('/api/delete_product/:_id', forget);
+routes.patch('/api/update_product/:_id', update);
 
 
 

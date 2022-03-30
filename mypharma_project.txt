@@ -14,3 +14,6 @@ Playlist recomendada: https://www.youtube.com/watch?v=xFMKYhlOtSE&list=PLf7vZ02b
 
 MongoDB no VS Code (Alura) - https://cursos.alura.com.br/extra/alura-mais/mongodb-no-visual-studio-code-c117 
 MongoDB: O banco baseado em documentos (Alura) - https://www.alura.com.br/artigos/mongodb-o-banco-baseado-em-documentos
+
+Arrumar repositório no github.
+Escolher template da pagina dos produtos.
